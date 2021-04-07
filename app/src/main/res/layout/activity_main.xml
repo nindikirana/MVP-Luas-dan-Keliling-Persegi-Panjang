@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Menghitung Luas dan Keliling Lingkaran"
+        android:text="Menghitung Luas dan Keliling Persegi Panjang"
         android:padding="16dp"
         android:textSize="24sp"
         android:textStyle="bold"
